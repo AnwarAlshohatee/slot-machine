@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body {
+    min-height: 100dvh;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+main{
+    height: auto;
+    width: 50%;
+    padding: 100px;
+    border: 5px solid black;
+    border-radius: 20%;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+#divSection {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.botSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#betAmount{
+    padding-left: 20px;
+}
+
+#restart {
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#restart:hover {
+    cursor: pointer;
+}
