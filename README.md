@@ -1,24 +1,47 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
 
-### Goal: Build a Simple Slot Machine
+# 🎰 Slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
+A simple browser-based slot machine game built with HTML, CSS, and JavaScript. Players can place bets, spin three reels, and try to match symbols to win.
 
-### How to submit your code for review:
+### 🎮 Live Demo
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+**[Play Slot Machine](https://anwaralshohatee.github.io/slot-machine/)**
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Features
+
+- Three reels with five possible symbols each
+- Randomized spins using JavaScript
+- Bet amounts between $5 and $50
+- Starting balance of $100
+- $50 payout for matching all three symbols
+- Balance updates after wins and losses
+- Restart option when the balance runs out
+
+### 🛠️ Tech Stack
+
+- **HTML5:** Game structure
+- **CSS3:** Layout and styling
+- **JavaScript:** Game logic, randomization, and DOM manipulation
+
+### 🚀 Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AnwarAlshohatee/slot-machine.git
+   ```
+
+2. Open the `slot-machine` folder.
+3. Open `index.html` in your browser.
+
+No installation or additional dependencies are required.
+
+### 📸 Screenshot
+
+![Slot Machine Screenshot](slot-mahine.avif)
+
+### 👨‍💻 Author
+
+**Anwar Alshohatee**
+
+[GitHub](https://github.com/AnwarAlshohatee) | [Portfolio](https://anwaralshohatee.netlify.app)
