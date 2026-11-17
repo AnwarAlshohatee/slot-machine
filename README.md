@@ -1,9 +1,9 @@
 
-# 🎰 Slot Machine
+# Slot Machine
 
 A simple browser-based slot machine game built with HTML, CSS, and JavaScript. Players can place bets, spin three reels, and try to match symbols to win.
 
-### 🎮 Live Demo
+### Live Demo
 
 **[Play Slot Machine](https://anwaralshohatee.github.io/slot-machine/)**
 
@@ -23,7 +23,7 @@ A simple browser-based slot machine game built with HTML, CSS, and JavaScript. P
 - **CSS3:** Layout and styling
 - **JavaScript:** Game logic, randomization, and DOM manipulation
 
-### 🚀 Getting Started
+### Getting Started
 
 1. Clone the repository:
 
@@ -36,11 +36,11 @@ A simple browser-based slot machine game built with HTML, CSS, and JavaScript. P
 
 No installation or additional dependencies are required.
 
-### 📸 Screenshot
+### Screenshot
 
 ![Slot Machine Screenshot](slot-machine.png)
 
-### 👨‍💻 Author
+### Author
 
 **Anwar Alshohatee**
 
