@@ -38,7 +38,7 @@ No installation or additional dependencies are required.
 
 ### 📸 Screenshot
 
-![Slot Machine Screenshot](slot-mahine.avif)
+![Slot Machine Screenshot](slot-machine.PNG)
 
 ### 👨‍💻 Author
 
